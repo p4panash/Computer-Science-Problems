@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527190629 source:c:\users\cs_me\desktop\pregatire concurs\piramidadebug\main.cpp
+	<iostream>
+	<fstream>
+	<cstddef>
+
