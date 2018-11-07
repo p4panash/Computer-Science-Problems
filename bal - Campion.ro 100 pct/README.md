@@ -3,4 +3,4 @@
 
 ![Datele problemei](https://i.imgur.com/ESBnfyW.png)
 
-![Teste evaluare] (https://i.imgur.com/y5Jd3X8.png)
+![Teste evaluare](https://i.imgur.com/y5Jd3X8.png)
